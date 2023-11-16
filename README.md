@@ -24,5 +24,7 @@ _Created by Nathan Carpenter_
 - Create a task with a task scheduler to automatically run the script on Windows startup to override default affinity.
 - Follow these settings when creating the task:
 - ![image](https://github.com/Nathan-Carpenter-Git/Fix-VoiceMeeter-Microphone/assets/144058518/5eb1c7bf-6453-4b41-b8cc-c0092bb399ae)
-- ![image](https://github.com/Nathan-Carpenter-Git/Fix-VoiceMeeter-Microphone/assets/144058518/d22ed525-8b58-4cf5-9038-fa7d29a936f2)
-- Leave the rest of the settings default.
+- ![image](https://github.com/Nathan-Carpenter-Git/Fix-VoiceMeeter-Microphone/assets/144058518/44dd67be-a170-4620-8d22-abc6ce673cee)
+- ![image](https://github.com/Nathan-Carpenter-Git/Fix-VoiceMeeter-Microphone/assets/144058518/e9c07ce3-9832-4c79-90ec-c00d224c4314)
+- The arguments are "-File path" So for me, it is: "-File C:\Users\carpe\OneDrive\Desktop\FixAudio.ps1".
+- The rest of the settings can be left default.
